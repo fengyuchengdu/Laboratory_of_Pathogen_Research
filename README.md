@@ -17,13 +17,13 @@ Our lab is engaged in cutting-edge research across the following domains:
 
 ## Principal Investigators
 
-- **[Prof. Zhiyong Zong](link to profile)** - Principal Investigator, Doctoral Supervisor, and Director of the Laboratory  
+- **Prof. Zhiyong Zong** - Principal Investigator, Doctoral Supervisor, and Director of the Laboratory  
   **Research Focus**: Pathogen infection and antimicrobial resistance  
   1. Optimizing methods like metagenomics to identify the etiology of infectious diseases.  
   2. Investigating resistance mechanisms and the transmission of resistance in clinically important pathogens (*Klebsiella pneumoniae*, *Escherichia coli*, *Enterobacter cloacae* complex, etc.) against key antimicrobial agents (carbapenems, polymyxins, avibactam combinations).  
   3. Hospital infection outbreak investigation and research on hospital infection prevention and control.
 
-- **[Prof. Xiaohui Wang](link to profile)** - Principal Investigator, Doctoral Supervisor  
+- **Prof. Xiaohui Wang** - Principal Investigator, Doctoral Supervisor  
   **Research Focus**: Basic and clinical aspects of pathogenic microorganisms  
   1. Rapid molecular diagnosis of infectious disease pathogens, including metagenomic sequencing.  
   2. Research on the pathogenesis, resistance mechanisms, and molecular epidemiology of *Clostridioides difficile*.  
